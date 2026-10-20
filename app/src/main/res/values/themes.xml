@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.YouTubeDownloader" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryVariant">@color/accent_dark</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:colorBackground">@color/bg_screen</item>
+        <item name="materialButtonStyle">@style/Widget.YouTubeDownloader.Button</item>
+    </style>
+
+    <style name="Widget.YouTubeDownloader.Button" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/accent</item>
+        <item name="android:textColor">@color/accent</item>
+        <item name="rippleColor">#331E88E5</item>
+    </style>
+</resources>

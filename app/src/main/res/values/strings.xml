@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">لودر فيديوهات</string>
+    <string name="channel_downloads">قناة التحميلات</string>
+    <string name="notif_ready">الج service جاهز للتحميل في الخلفية</string>
+
+    <string name="search_hint">أدخل رابط يوتيوب أو معرف الفيديو</string>
+    <string name="search_btn">بحث</string>
+    <string name="result_streams">خيار جودة متاح</string>
+    <string name="no_results">لا توجد نتائج</string>
+
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_downloads">التحميلات</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <string name="btn_back">العودة</string>
+    <string name="lbl_quality">الجودة</string>
+    <string name="lbl_size">الحجم</string>
+    <string name="lbl_type">النوع</string>
+    <string name="type_video">فيديو</string>
+    <string name="type_audio">صوت</string>
+    <string name="quality_unknown">جودة غير محددة</string>
+
+    <string name="action_download">تحميل</string>
+    <string name="action_pause">إيقاف</string>
+    <string name="action_resume">استئناف</string>
+    <string name="action_cancel">إلغاء</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_play">تشغيل</string>
+    <string name="action_retry">إعادة المحاولة</string>
+    <string name="action_waiting">انتظار…</string>
+    <string name="status_downloading">جارٍ التحميل…</string>
+    <string name="status_completed">تم ✓</string>
+    <string name="status_failed">فشل</string>
+
+    <string name="err_direct_link">الرابط المباشر غير متوفر لهذه الجودة حالياً</string>
+    <string name="err_no_file">الملف غير موجود</string>
+    <string name="err_no_player">لا يوجد تطبيق لتشغيل هذا النوع من الملفات</string>
+    <string name="err_invalid_link">أدخل رابطاً صحيحاً لمقطع يوتيوب أو معرف الفيديو</string>
+    <string name="err_fetch">فشل جلب معلومات الفيديو</string>
+
+    <string name="label_active_count">التحميلات النشطة: %1$d</string>
+    <string name="label_completed_count">المكتملة: %1$d</string>
+    <string name="btn_clear_completed">مسح المكتملة</string>
+
+    <string name="settings_title">الإعدادات</string>
+    <string name="btn_clear">مسح السجلات</string>
+    <string name="btn_about">عن التطبيق</string>
+    <string name="tv_version">الإصدار 1.0.0</string>
+    <string name="about_msg">تطبيق تنزيل فيديوهات يوتيوب - نموذج تعليمي</string>
+
+    <plurals name="progress_percent">
+        <item quantity="one">%1$d%%</item>
+        <item quantity="few">%1$d%%</item>
+        <item quantity="many">%1$d%%</item>
+        <item quantity="other">%1$d%%</item>
+    </plurals>
+</resources>
